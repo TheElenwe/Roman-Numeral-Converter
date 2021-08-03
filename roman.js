@@ -117,4 +117,4 @@ result.push(res4,res3,res2,res1);
   return result.join("");
 }
 
-console.log(convertToRoman(36));
+console.log(convertToRoman(4)); //  IV
